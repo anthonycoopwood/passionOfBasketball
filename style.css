@@ -23,3 +23,34 @@ p{
         background-color: orange;
         border: solid
     }
+
+    #div3{
+        background-color: green;
+    }
+
+    #div4{
+        background-image: url("https://media2.giphy.com/media/xTiTnsJMLhZGD5bbMs/source.gif");
+        color: orange;
+    }
+
+    #div5{
+        background-color: blue;
+    }
+
+    #div6{
+        background-color: pink;
+        height: 200px;
+    }
+
+    #div7{
+        background-color: silver;
+    }
+
+    .class1{
+        background-color: gold;
+    }
+
+    h3{
+        text-align: center;
+        color: red;
+    }
