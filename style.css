@@ -1,14 +1,15 @@
 body{
-    background-color: #B8BAC8;
+    background-color: purple;
     border: solid;
 }
 p{
-    font-family: 'Lobster Two', cursive;
+   font-family: 'Patrick Hand', cursive;
     }
 
     img{
         height: 250px;
-        width: 300px;
+        width: 500px;
+
     }
 
     #div1{
@@ -16,22 +17,31 @@ p{
      border: solid;
      background-image: url("http://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg");
      height: 200px;
+     font-family: 'Shadows Into Light Two', cursive;
 
 
     }
 
     #div2{
         background-color: orange;
-        border: solid
+        border: solid;
+        font-family: 'Gochi Hand', cursive;
+        image: center;
     }
 
     #div3{
         background-color: green;
+        font-family: 'Handlee', cursive;
     }
 
     #div4{
         background-image: url("https://media2.giphy.com/media/xTiTnsJMLhZGD5bbMs/source.gif");
-        color: orange;
+          background-repeat: no-repeat;
+          width: 500px;
+          height: 500px;
+
+
+        color: red;
     }
 
     #div5{
@@ -45,6 +55,8 @@ p{
 
     #div7{
         background-color: silver;
+        background-image: url("https://media4.giphy.com/media/3oEdv6073uOy9grSUg/giphy-downsized.gif");
+        color: yellow;
     }
 
     .class1{
@@ -56,6 +68,14 @@ p{
         color: red;
     }
 
+    h1{
+        text-align: center;
+    }
+
+     h2{
+        text-align: center;
+    }
+
 
 
     ul {
@@ -63,7 +83,9 @@ p{
   margin: 0;
   padding: 0;
   width: 200px;
-  background-color: #f1f1f1;
+  background-color: yellow;
+  float: right;
+
 }
 
 li a {
@@ -78,3 +100,9 @@ li a:hover {
   background-color: #555;
   color: white;
 }
+
+footer{
+    background-color: neon green
+}
+
+
